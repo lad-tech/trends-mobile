@@ -1,0 +1,224 @@
+{
+  "Language": {
+    "typescript": {
+      "points": [
+        5,
+        5
+      ],
+      "link": ""
+    },
+    "rust": {
+      "points": [
+        0,
+        1
+      ],
+      "link": ""
+    },
+    "swift": {
+      "points": [
+        1,
+        2
+      ],
+      "link": ""
+    },
+    "Objective-C": {
+      "points": [
+        1,
+        0
+      ],
+      "link": ""
+    },
+    "kotlin": {
+      "points": [
+        1,
+        2
+      ],
+      "link": ""
+    },
+    "java": {
+      "points": [
+        1,
+        0
+      ],
+      "link": ""
+    }
+  },
+  "Frameworks/Libs": {
+    "React": {
+      "points": [
+        5
+      ],
+      "link": ""
+    },
+    "React-Native": {
+      "points": [
+        5
+      ],
+      "link": ""
+    },
+    "Redux": {
+      "points": [
+        5
+      ],
+      "link": ""
+    },
+    "Redux Persist": {
+      "points": [
+        5,
+        5
+      ],
+      "link": ""
+    },
+    "Redux Saga": {
+      "points": [
+        1,
+        0
+      ],
+      "link": ""
+    },
+    "Redux Thunk": {
+      "points": [
+        4,
+        3
+      ],
+      "link": ""
+    },
+    "Redux Toolkit": {
+      "points": [
+        2,
+        3
+      ],
+      "link": ""
+    },
+    "React Navigation": {
+      "points": [
+        5,
+        5
+      ],
+      "link": ""
+    },
+    "Day js": {
+      "points": [
+        4,
+        5
+      ],
+      "link": ""
+    },
+    "React Native Fetch Blob Util": {
+      "points": [
+        2,
+        2
+      ],
+      "link": ""
+    },
+    "i18n": {
+      "points": [
+        3,
+        3
+      ],
+      "link": ""
+    }
+  },
+  "API/architecture": {
+    "Rest": {
+      "points": [
+        4
+      ],
+      "link": "https://ru.wikipedia.org/wiki/REST"
+    },
+    "GraphQL": {
+      "points": [
+        1,
+        2
+      ],
+      "link": "https://en.wikipedia.org/wiki/GraphQL"
+    },
+    "Firebase": {
+      "points": [
+        4,
+        5
+      ],
+      "link": ""
+    },
+    "FSD": {
+      "points": [
+        0,
+        1
+      ],
+      "link": "https://feature-sliced.design/"
+    }
+  },
+  "Testing": {
+    "jest": {
+      "points": [
+        5,
+        5
+      ],
+      "link": ""
+    },
+    "RN Testing Library": {
+      "points": [
+        2,
+        3
+      ],
+      "link": ""
+    },
+    "Detox": {
+      "points": [
+        1,
+        3
+      ],
+      "link": ""
+    },
+    "Appium": {
+      "points": [
+        0,
+        1
+      ],
+      "link": ""
+    }
+  },
+  "Animation": {
+    "Reanimated": {
+      "points": [
+        2,
+        3
+      ],
+      "link": ""
+    },
+    "Lottie": {
+      "points": [
+        0,
+        1
+      ],
+      "link": ""
+    },
+    "Animated API": {
+      "points": [
+        3,
+        3
+      ],
+      "link": ""
+    }
+  },
+  "Code style/Runners": {
+    "eslint": {
+      "points": [
+        5
+      ],
+      "link": ""
+    },
+    "prettier": {
+      "points": [
+        5
+      ],
+      "link": ""
+    },
+    "Gitlab CI/CD": {
+      "points": [
+        5
+      ],
+      "link": ""
+    }
+  }
+}
