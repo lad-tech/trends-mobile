@@ -2,6 +2,7 @@
   "name": "trends-mobile",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lad-tech.github.io/trends-mobile/",
   "dependencies": {
     "apexcharts": "^3.36.3",
     "react": "^18.2.0",
