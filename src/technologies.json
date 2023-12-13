@@ -30,8 +30,8 @@
     },
     "kotlin": {
       "points": [
-        1,
-        2
+        2,
+        3
       ],
       "link": ""
     },
@@ -85,8 +85,8 @@
     },
     "Redux Toolkit": {
       "points": [
-        2,
-        3
+        3,
+        4
       ],
       "link": ""
     },
@@ -113,23 +113,43 @@
     },
     "i18n": {
       "points": [
-        3,
-        3
+        5
       ],
       "link": ""
+    },
+    "Skia": {
+      "points": [
+        1,
+        2
+      ],
+      "link": "https://github.com/Shopify/react-native-skia"
+    },
+    "react-hook-form": {
+      "points": [
+        3,
+        4
+      ],
+      "link": "https://github.com/react-hook-form/react-hook-form"
+    },
+    "mobydick": {
+      "points": [
+        3,
+        4
+      ],
+      "link": "https://github.com/lad-tech/mobydick"
     }
   },
   "API/architecture": {
     "Rest": {
       "points": [
-        4
+        5
       ],
       "link": "https://ru.wikipedia.org/wiki/REST"
     },
     "GraphQL": {
       "points": [
         1,
-        2
+        1
       ],
       "link": "https://en.wikipedia.org/wiki/GraphQL"
     },
@@ -142,8 +162,8 @@
     },
     "FSD": {
       "points": [
-        0,
-        1
+        2,
+        4
       ],
       "link": "https://feature-sliced.design/"
     }
@@ -158,22 +178,15 @@
     },
     "RN Testing Library": {
       "points": [
-        2,
-        3
+        4,
+        5
       ],
       "link": ""
     },
     "Detox": {
       "points": [
-        1,
+        2,
         3
-      ],
-      "link": ""
-    },
-    "Appium": {
-      "points": [
-        0,
-        1
       ],
       "link": ""
     }
@@ -181,14 +194,14 @@
   "Animation": {
     "Reanimated": {
       "points": [
-        2,
-        3
+        3,
+        4
       ],
       "link": ""
     },
     "Lottie": {
       "points": [
-        0,
+        1,
         1
       ],
       "link": ""
@@ -219,6 +232,25 @@
         5
       ],
       "link": ""
+    },
+    "sentry": {
+      "points": [
+        5
+      ],
+      "link": "https://sentry.io/welcome/"
+    },
+    "sonarqube": {
+      "points": [
+        5
+      ],
+      "link": "https://www.sonarsource.com/products/sonarqube/"
+    },
+    "rnx-kit": {
+      "points": [
+        2,
+        3
+      ],
+      "link": "https://github.com/microsoft/rnx-kit"
     }
   }
 }
